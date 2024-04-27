@@ -8,7 +8,7 @@
     "npm-license-crawler": "./bin/npm-license-crawler"
   },
   "dependencies": {
-    "async": "^2.6.4",
+    "async": "^3.2.5",
     "license-checker": "github:bubonicfred/license-checker"
   },
   "devDependencies": {
